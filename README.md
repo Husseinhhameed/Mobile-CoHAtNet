@@ -16,9 +16,6 @@ Mobile-CoHAtNet leverages the strengths of:
 ![Mobile-CoHAtNet](https://github.com/Husseinhhameed/Mobile-CoHAtNet/blob/main/mdel.png)
 
 
-![IMUt](https://github.com/Husseinhhameed/Mobile-CoHAtNet/blob/main/IMUfusing.png)
-
-
 This repository includes:
 - Scripts for Creating and training Mobile-CoHAtNet.
 - Script of Estimating IMU data from transformation matrix.
