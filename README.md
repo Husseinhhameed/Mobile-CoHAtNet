@@ -51,7 +51,7 @@ The dataset represents a laboratory environment with challenging conditions such
 You can download the dataset from the following Google Drive link:  
 [Download LAB Dataset](https://drive.google.com/file/d/1voslJg1x0EB8Fck0Xuodc1Cf0mINvknq/view?usp=sharing)
 
-![dataset]([https://github.com/Husseinhhameed/Mobile-CoHAtNet/blob/main/IMUfusing.png](https://github.com/Husseinhhameed/Mobile-CoHAtNet/blob/main/dataset.png))
+![datq](https://github.com/Husseinhhameed/Mobile-CoHAtNet/blob/main/dataset.png)
 
 
 
