@@ -13,7 +13,8 @@
 [![Paper](https://img.shields.io/badge/Paper-Springer-0A66C2)](https://link.springer.com/article/10.1007/s00138-026-01935-5)
 [![Full Text](https://img.shields.io/badge/Full%20Text-Free%20Read-E37400)](https://rdcu.be/JYbNfJXiSTsa)
 [![Dataset](https://img.shields.io/badge/Dataset-Google%20Drive-34A853?logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1DRH1vohn71Mv8_6adYFZVhAspAv2nuRF?usp=sharing)
-[![Ask DeepWiki](https://img.shields.io/badge/Ask-DeepWiki-1F6FEB)](https://deepwiki.com/Husseinhhameed/Mobile-CoHAtNet)
+
+<a href="https://deepwiki.com/Husseinhhameed/Mobile-CoHAtNet"><img src="https://img.shields.io/badge/Ask-DeepWiki-7C3AED?style=for-the-badge&labelColor=1E1B4B" alt="Ask DeepWiki" height="38"></a>
 
 [📖 Overview](#-overview) · [🧩 Architecture](#-architecture) · [🔥 Attention](#-attention-visualization) · [📱 Dataset](#-self-collected-mobile-dataset) · [📝 Citation](#-citation)
 
