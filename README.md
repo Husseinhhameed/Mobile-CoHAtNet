@@ -10,19 +10,10 @@
 
 *Machine Vision and Applications* · Vol. 37 · Article 171 · 2026
 
-[![Paper](https://img.shields.io/badge/Paper-Springer-0A66C2?style=for-the-badge)](https://link.springer.com/article/10.1007/s00138-026-01935-5)
-[![Full Text](https://img.shields.io/badge/Full%20Text-Free%20Read-E37400?style=for-the-badge)](https://rdcu.be/JYbNfJXiSTsa)
-[![Dataset](https://img.shields.io/badge/Dataset-Google%20Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1DRH1vohn71Mv8_6adYFZVhAspAv2nuRF?usp=sharing)
-[![DOI](https://img.shields.io/badge/DOI-10.1007%2Fs00138--026--01935--5-1F6FEB?style=for-the-badge)](https://doi.org/10.1007/s00138-026-01935-5)
-
-![Camera Localization](https://img.shields.io/badge/Camera%20Localization-0969DA?style=flat-square)
-![Absolute Pose Regression](https://img.shields.io/badge/Absolute%20Pose%20Regression-0969DA?style=flat-square)
-![6-DoF Pose](https://img.shields.io/badge/6--DoF%20Pose-0969DA?style=flat-square)
-![Hybrid CNN-Transformer](https://img.shields.io/badge/Hybrid%20CNN--Transformer-0969DA?style=flat-square)
-![Multimodal Fusion](https://img.shields.io/badge/Multimodal%20Fusion-0969DA?style=flat-square)
-![RGB-D + IMU](https://img.shields.io/badge/RGB--D%20%2B%20IMU-0969DA?style=flat-square)
-![Lightweight Inference](https://img.shields.io/badge/Lightweight%20Inference-0969DA?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+[![Paper](https://img.shields.io/badge/Paper-Springer-0A66C2)](https://link.springer.com/article/10.1007/s00138-026-01935-5)
+[![Full Text](https://img.shields.io/badge/Full%20Text-Free%20Read-E37400)](https://rdcu.be/JYbNfJXiSTsa)
+[![Dataset](https://img.shields.io/badge/Dataset-Google%20Drive-34A853?logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1DRH1vohn71Mv8_6adYFZVhAspAv2nuRF?usp=sharing)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Husseinhhameed/Mobile-CoHAtNet)
 
 [📖 Overview](#-overview) · [🧩 Architecture](#-architecture) · [🔥 Attention](#-attention-visualization) · [📱 Dataset](#-self-collected-mobile-dataset) · [📝 Citation](#-citation)
 
@@ -72,9 +63,7 @@ For the real-world evaluation, we recorded a laboratory sequence with an off-the
 
 <p align="center"><b>📷 RGB</b> &nbsp;•&nbsp; <b>📏 LiDAR Depth</b> &nbsp;•&nbsp; <b>🧭 Real IMU</b> &nbsp;•&nbsp; <b>📱 iPhone 14 Pro Max</b></p>
 
-<p align="center">
-  <a href="https://drive.google.com/drive/folders/1DRH1vohn71Mv8_6adYFZVhAspAv2nuRF?usp=sharing"><img src="https://img.shields.io/badge/Download%20Dataset-Google%20Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download the dataset from Google Drive"></a>
-</p>
+<p align="center">📥 <b><a href="https://drive.google.com/drive/folders/1DRH1vohn71Mv8_6adYFZVhAspAv2nuRF?usp=sharing">Download the dataset from Google Drive</a></b></p>
 
 <p align="center">
   <img src="dataset.png" alt="Sample from the self-collected mobile dataset" width="95%">
